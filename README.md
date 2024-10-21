@@ -53,4 +53,4 @@ Ce projet fournit deux classes JavaScript, `Pool` et `Connection`, pour facilite
 
 ### Licence
 
-Ce projet est sous MIT. Voir le fichier [LICENSE](./LICENSE) pour plus d'informations.
+Ce projet est sous MIT. Voir le fichier [LICENSE](LICENSE.txt) pour plus d'informations.
